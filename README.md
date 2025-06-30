@@ -1,4 +1,3 @@
-
 # 🎮 Unity ORM Channel Packer (HDRP & URP)
 
 A lightweight texture packing tool to combine **Occlusion**, **Roughness/Smoothness**, and **Metallic** grayscale maps into a single RGBA texture, optimized for Unity's **HDRP** and **URP** pipelines.
@@ -87,3 +86,17 @@ Feel free to fork, improve, or open a pull request to:
 - Add batch processing
 - Add GUI
 - Support more pipelines or custom workflows
+---
+
+## 🔗 About the Author
+
+**Developed by Jaswanth Gnanasekar**
+
+- 🌐 [ProfictionStudios.com](https://profictionstudios.com)  
+- 🎮 [ArtStation Portfolio](https://adrenoakasharm.artstation.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaswanth-gnanasekar-677239187/)  
+- 📱 [Google Play Developer Page](https://play.google.com/store/apps/dev?id=6724334764661774476)  
+- 🎥 [Showreel](https://youtu.be/25UPvEzgeVo)  
+- 🕹️ [Game Demo – The Wish](https://youtu.be/-6N9hIAjHe8?si=IvEo9V4NcCK5hhk9)  
+
+Search **"Jaswanth Gnanasekar"** to explore all apps, games, tools, and immersive experiences built across Unity and Unreal ecosystems.
